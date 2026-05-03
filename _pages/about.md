@@ -72,10 +72,13 @@ h2 {
     max-width: 400px !important;
     margin: 0 auto 15px !important;
   }
-  .paper-box-image img {
-    height: auto !important;
-    min-height: 180px !important;
-  }
+ .paper-box-image img {
+  border-radius: 8px;
+  object-fit: cover;
+  width: 100%;
+  height: 260px;  /* 原图220px → 加高 */
+  border: 1px solid #eee;
+  transition: transform 0.5s ease;
 }
 .paper-box-image {
   flex: 0 0 300px;
