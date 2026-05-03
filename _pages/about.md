@@ -40,10 +40,9 @@ h2 {
 }
 
 /* 4. 论文卡片：优化图片排版+响应式适配+动画 */
-/* 4. 论文卡片：优化图片排版+响应式适配+动画 */
 .paper-box {
   display: flex;
-  gap: 28px;
+  gap: 30px;
   padding: 25px;
   margin: 0 auto 35px;
   max-width: 1100px;
@@ -60,7 +59,8 @@ h2 {
   transform: translateY(-5px);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
 }
-/* 移动端：卡片改为垂直布局，图片居中 */
+
+/* 移动端：卡片垂直布局，无多余留白 */
 @media (max-width: 768px) {
   .paper-box {
     flex-direction: column;
@@ -68,43 +68,44 @@ h2 {
     gap: 20px;
   }
   .paper-box-image {
-    flex: 0 0 auto !important;
+    flex: none !important;
     width: 100% !important;
     max-width: 420px !important;
     margin: 0 auto !important;
     padding: 0 !important;
-    background: transparent !important;
   }
   .paper-box-image img {
     height: auto !important;
-    min-height: 200px !important;
+    width: 100% !important;
   }
 }
-/* 图片容器：取消多余留白，适度加宽，图文比例协调 */
+
+/* 图片容器：无额外留白，尺寸放大，和文字比例协调 */
 .paper-box-image {
-  flex: 0 0 340px;  /* 适度加宽，不大不小刚好配文字 */
+  flex: 0 0 350px;
+  padding: 0;
   margin: 0;
-  padding: 0;       /* 取消容器内多余留白 */
   overflow: hidden;
   border-radius: 8px;
 }
 .paper-box-image img {
   border-radius: 8px;
-  object-fit: contain; /* 保留原图比例，不裁切 */
+  object-fit: cover;
   width: 100%;
   height: 240px;
-  border: 1px solid #f0f0f0;
+  /* 取消图片四周多余留白 */
+  border: none;
   transition: transform 0.5s ease;
 }
 .paper-box-image img:hover {
-  transform: scale(1.04);
+  transform: scale(1.03);
 }
 .paper-box-text {
   flex: 1;
   font-size: 15px;
-  line-height: 1.75;
   color: #34495e;
-  padding: 5px 0;
+  line-height: 1.8;
+  padding: 0;
 }
 
 /* 5. 成果列表：优化间距+层级+动画 */
@@ -230,54 +231,6 @@ He also holds the positions of Director of the National Medical Research and Dev
 Professor Fan is a Changjiang Scholar Distinguished Professor, leader of the Innovation Group of the National Natural Science Foundation of China, and leader of the Innovation Team in Key Fields of the Ministry of Science and Technology. He is a recipient of the Special Government Allowance of the State Council. Additionally, he is a Fellow of the American Institute for Medical and Biological Engineering (AIMBE), International Academy for Medical and Biological Engineering (IAMBE), International Union for Physical and Engineering Sciences in Medicine (IUPESM), and Federation of the International Societies for Biomaterials Science and Engineering (FBSE).
 </div>
 
-## Collaborators
-
-<div class="profile-intro">
-Below are the core students and faculty collaborators from our team. You are welcome to reach out to them for potential collaborations. Interns are not listed here—however, we warmly welcome motivated individuals to join us!
-</div>
-
-## Faculty
-
-<div class="profile-intro">
-<li>
-Bi Zhang, Shenyang Institute of Automation — Rehabilitation Exoskeleton Robot
-</li>
-<li>
-Xiao Zhang, Tianjin University — Origami Engineering
-</li>
-<li>
-Yanggang Feng, Beihang University — Wearable Robot
-</li>
-<li>
-Guotao Li, Institute of Automation, Chinese Academy of Sciences (CAS) — Exoskeleton Robot
-</li>
-</div>
-
-## Doctor
-
-<div class="profile-intro">
-<li>Qinggang Ge, Zongyu Wang, Mai Shi, Lei Xue, Peking University Third Hospital — Respiratory and Critical Care Medicine</li>
-<li>Shu Li, Peking University People’s Hospital — Respiratory Function in Trauma Patients</li>
-<li>Dan Huang, Xiaotangshan Hospital — Hypoxic Respiration</li>
-<li>Xiaoxuan Liu, Peking University Third Hospital — ALS</li>
-</div>
-
-## News
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">中国康复医学报告2022</div>
-      <img src='images/pic-1.png' alt="中国康复医学报告2022相关图片">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-As shown in the picture, the research group led by my supervisor (Professor Dangxiao Wang) serves as the lead unit for the National Key R&D Program *"Wearable Machine for Cardiopulmonary Assistance Integrating Homo sapiens"*, and I participated as a core member of the project team.  
-
-This work is supported by five major research projects, including the General Program of the National Natural Science Foundation of China and collaborative projects with Huawei. The related technologies have been validated in over 200 clinical applications and were selected as an additional technology in the *China Rehabilitation Medicine Report 2022* (the only respiratory assistive technology included in the Homo sapiens category), edited by Academician Wang Chen.
-  </div>
-</div>
-
 ## Achievements
 
 <ul id="Achievements">
@@ -376,3 +329,53 @@ I have presided over and participated in a number of national, provincial and ho
   <li>Wenzhuo Zhi, Wei Zhao,<strong>Yan Zhang</strong>, Enming Shi, Yangfan Zhou, Bi Zhang. Thoraco-abdominal biomechanical model and dual-layer control method for soft robotic system with application to respiratory assistance [J]. <em>Frontiers in Bioengineering and Biotechnology</em>. <em>(SCI, Q1)</em> (Co-Corresponding Author)</li>
   <li>Yue Wang, <strong>Yan Zhang</strong>, Qinggang Ge, Yaoxi Zhang, Zongyu Wang, Weidong Guo, Yuru Zhang, Yuhui Wang, and Dangxiao Wang. Autonomous respiratory control: Electroencephalogram feature analysis [J].<em>IEEE Transactions on Neural Systems and Rehabilitation Engineering</em>, 2023.<em>(SCI, Q1, 第一季度)</em>(Second Author)</li>
 </ol>
+
+## Collaborators
+
+<div class="profile-intro">
+Below are the core students and faculty collaborators from our team. You are welcome to reach out to them for potential collaborations. Interns are not listed here—however, we warmly welcome motivated individuals to join us!
+</div>
+
+## Faculty
+
+<div class="profile-intro">
+<li>
+Bi Zhang, Shenyang Institute of Automation — Rehabilitation Exoskeleton Robot
+</li>
+<li>
+Xiao Zhang, Tianjin University — Origami Engineering
+</li>
+<li>
+Yanggang Feng, Beihang University — Wearable Robot
+</li>
+<li>
+Guotao Li, Institute of Automation, Chinese Academy of Sciences (CAS) — Exoskeleton Robot
+</li>
+</div>
+
+## Doctor
+
+<div class="profile-intro">
+<li>Qinggang Ge, Zongyu Wang, Mai Shi, Lei Xue, Peking University Third Hospital — Respiratory and Critical Care Medicine</li>
+<li>Shu Li, Peking University People’s Hospital — Respiratory Function in Trauma Patients</li>
+<li>Dan Huang, Xiaotangshan Hospital — Hypoxic Respiration</li>
+<li>Xiaoxuan Liu, Peking University Third Hospital — ALS</li>
+</div>
+
+## News
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">中国康复医学报告2022</div>
+      <img src='images/pic-1.png' alt="中国康复医学报告2022相关图片">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+As shown in the picture, the research group led by my supervisor (Professor Dangxiao Wang) serves as the lead unit for the National Key R&D Program *"Wearable Machine for Cardiopulmonary Assistance Integrating Homo sapiens"*, and I participated as a core member of the project team.  
+
+This work is supported by five major research projects, including the General Program of the National Natural Science Foundation of China and collaborative projects with Huawei. The related technologies have been validated in over 200 clinical applications and were selected as an additional technology in the *China Rehabilitation Medicine Report 2022* (the only respiratory assistive technology included in the Homo sapiens category), edited by Academician Wang Chen.
+  </div>
+</div>
+
+
