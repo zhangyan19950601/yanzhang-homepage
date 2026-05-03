@@ -368,7 +368,7 @@ Guotao Li, Institute of Automation, Chinese Academy of Sciences (CAS) — Exoske
   <div class='paper-box-image'>
     <div>
       <div class="badge">中国康复医学报告2022</div>
-      <img src='images/pic-1.png' alt="中国康复医学报告2022相关图片">
+      <img src='images/pic-mdrpt.png' alt="中国康复医学报告2022相关图片">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
