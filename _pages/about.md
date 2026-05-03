@@ -40,9 +40,10 @@ h2 {
 }
 
 /* 4. 论文卡片：优化图片排版+响应式适配+动画 */
+/* 4. 论文卡片：优化图片排版+响应式适配+动画 */
 .paper-box {
   display: flex;
-  gap: 25px;
+  gap: 28px;
   padding: 25px;
   margin: 0 auto 35px;
   max-width: 1100px;
@@ -69,37 +70,39 @@ h2 {
   .paper-box-image {
     flex: 0 0 auto !important;
     width: 100% !important;
-    max-width: 400px !important;
-    margin: 0 auto 15px !important;
+    max-width: 420px !important;
+    margin: 0 auto !important;
+    padding: 0 !important;
+    background: transparent !important;
   }
- .paper-box-image img {
-  border-radius: 8px;
-  object-fit: cover;
-  width: 100%;
-  height: 260px;  /* 原图220px → 加高 */
-  border: 1px solid #eee;
-  transition: transform 0.5s ease;
+  .paper-box-image img {
+    height: auto !important;
+    min-height: 200px !important;
+  }
 }
+/* 图片容器：取消多余留白，适度加宽，图文比例协调 */
 .paper-box-image {
-  flex: 0 0 300px;
-  margin: 5px 0;
+  flex: 0 0 340px;  /* 适度加宽，不大不小刚好配文字 */
+  margin: 0;
+  padding: 0;       /* 取消容器内多余留白 */
   overflow: hidden;
   border-radius: 8px;
 }
 .paper-box-image img {
   border-radius: 8px;
-  object-fit: cover;
+  object-fit: contain; /* 保留原图比例，不裁切 */
   width: 100%;
-  height: 220px;
+  height: 240px;
   border: 1px solid #f0f0f0;
   transition: transform 0.5s ease;
 }
 .paper-box-image img:hover {
-  transform: scale(1.05);
+  transform: scale(1.04);
 }
 .paper-box-text {
   flex: 1;
   font-size: 15px;
+  line-height: 1.75;
   color: #34495e;
   padding: 5px 0;
 }
