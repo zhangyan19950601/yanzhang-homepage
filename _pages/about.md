@@ -243,8 +243,10 @@ Professor Fan is a Changjiang Scholar Distinguished Professor, leader of the Inn
   <div class='paper-box-text' markdown="1">
  Three types of respiratory assist robotic devices were developed, and their efficacy was validated in five categories of patients with typical respiratory disorders (motor neuron injury, chronic obstructive pulmonary disease, cervical spinal cord injury, stroke, and traumatic respiratory failure). This research provides a hardware foundation and clinical experience for personalized optimization strategies involving human-in-the-loop for patients with various respiratory diseases. <BR><STRONG>Professor Roche Ellen from the Department of Mechanical Engineering and Medical Engineering at MIT commented that the cardiopulmonary function assistive technology based on soft robots is promising to overcome the limitations of traditional ventilators.</STRONG>
   </div>
+<span style="font-size: 18px; color: #2980b9; font-weight: bold;">
 <strong>Development of respiratory exoskeleton prototypes</strong><br>
-To address the issue that clinical positive pressure ventilators do not fully align with physiological breathing mechanisms and are prone to causing lung injuries and alveolar collapse, we proposed a soft wearable robotic device that simulates human physiological breathing.
+To address the issue that clinical positive pressure ventilators do not fully align with physiological breathing mechanisms and are prone to causing lung injuries and alveolar collapse, we proposed a soft wearable robotic device that simulates human physiological breathing.</span>
+
 </div>
 
 <div class='paper-box'>
@@ -413,3 +415,5 @@ Our research group serves as the lead unit for the National Key R&D Program, and
 Relevant achievements have been validated in over 200 practical applications and were officially included in the <strong>China Rehabilitation Medicine Report 2022</strong> compiled by Academician Wang Chen, as the only selected technology in the respiratory assistive robot category. </div>
 
 </div>
+
+
