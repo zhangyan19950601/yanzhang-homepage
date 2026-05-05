@@ -250,12 +250,11 @@ To address the issue that clinical positive pressure ventilators do not fully al
   <div class='paper-box-image'>
     <div>
       <div class="badge">Bionic Design</div>
-      <img src='images/muss.png' alt="Bionic muscle-driven variable-stiffness design">
+      <img src='images/muss-2.png' alt="Bionic muscle-driven variable-stiffness design">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-<strong>Bionic muscle-driven variable-stiffness design based on Broussonetia papyrifera origami</strong><br>
-The research team conducted preliminary studies on key technologies of respiratory assist devices, designing a variable-stiffness negative-pressure shell based on the layer-blocking variable-stiffness actuation principle, which can switch between rigid and soft states. In the rigid state, the shell can apply negative pressure ranging from 0 to -50 cmH₂O to the chest wall, meeting the pressure and volume requirements for inspiratory assistance. Additionally, the team achieved a breakthrough in fiber-reinforced double-layer casting technology and developed a high-output-force, high-folding-ratio soft actuator based on the Yoshimura tubular origami structure of Broussonetia papyrifera for expiratory assistance. The designed personalized portable exoskeleton system can effectively provide respiratory assistance to wearers in daily life scenarios and support the exploration of exoskeleton-assisted strategies during routine movements.
+The research team conducted preliminary studies on key technologies of respiratory assist devices, designing a variable-stiffness negative-pressure shell based on the layer-blocking variable-stiffness actuation principle, which can switch between rigid and soft states. Additionally,we achieved a breakthrough in fiber-reinforced double-layer casting technology and developed a high-output-force, high-folding-ratio soft actuator based on the Yoshimura tubular origami structure of Broussonetia papyrifera for expiratory assistance. The designed personalized portable exoskeleton system can effectively provide respiratory assistance to wearers in daily life scenarios and support the exploration of exoskeleton-assisted strategies during routine movements.
   </div>
 </div>
 
@@ -409,5 +408,3 @@ Our research group serves as the lead unit for the National Key R&D Program, and
 Relevant achievements have been validated in over 200 practical applications and were officially included in the <strong>China Rehabilitation Medicine Report 2022</strong> compiled by Academician Wang Chen, as the only selected technology in the respiratory assistive robot category. </div>
 
 </div>
-
-
