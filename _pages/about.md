@@ -234,7 +234,7 @@ Professor Fan is a Changjiang Scholar Distinguished Professor, leader of the Inn
 ## Achievements
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
+  <div classpaper-box-image'>
     <div>
       <div class="badge">Prototype</div>
       <img src='images/robot.png' alt="Respiratory exoskeleton prototypes">
@@ -246,7 +246,7 @@ Professor Fan is a Changjiang Scholar Distinguished Professor, leader of the Inn
 <span style="font-size: 18px; color: #2980b9; font-weight: bold;">
 <strong>Development of respiratory exoskeleton prototypes</strong></span><br>
 <span style="font-size: 16px; color: #34495e; font-weight: bold;">To address the issue that clinical positive pressure ventilators do not fully align with physiological breathing mechanisms and are prone to causing lung injuries and alveolar collapse, we proposed a soft wearable robotic device that simulates human physiological breathing.</span>
-</div>
+
 
 </div>
 
@@ -265,7 +265,7 @@ We achieved a breakthrough in fiber-reinforced double-layer casting technology a
 </div>
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
+  <divclass='paper-box-image'>
     <div>
       <div class="badge">Control Strategy</div>
       <img src='images/loop.png' alt="Human-in-the-loop control strategies">
@@ -276,7 +276,7 @@ We achieved a breakthrough in fiber-reinforced double-layer casting technology a
   </div>
 <span style="font-size: 18px; color: #2980b9; font-weight: bold;"><strong>Research on human-in-the-loop control strategies</strong></sapn><br>
 <span style="font-size: 16px; color: #34495e; font-weight: bold;">A closed-loop control system for respiratory assist devices was established, and a model-based proportional controller was designed to achieve personalized parameter adjustment and closed-loop tracking of complex breathing signals.</span>
-</div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -416,5 +416,3 @@ Our research group serves as the lead unit for the National Key R&D Program, and
 Relevant achievements have been validated in over 200 practical applications and were officially included in the <strong>China Rehabilitation Medicine Report 2022</strong> compiled by Academician Wang Chen, as the only selected technology in the respiratory assistive robot category. </div>
 
 </div>
-
-
