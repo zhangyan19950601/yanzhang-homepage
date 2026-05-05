@@ -244,8 +244,9 @@ Professor Fan is a Changjiang Scholar Distinguished Professor, leader of the Inn
  Three types of respiratory assist robotic devices were developed, and their efficacy was validated in five categories of patients with typical respiratory disorders (motor neuron injury, chronic obstructive pulmonary disease, cervical spinal cord injury, stroke, and traumatic respiratory failure). This research provides a hardware foundation and clinical experience for personalized optimization strategies involving human-in-the-loop for patients with various respiratory diseases. <BR><STRONG>Professor Roche Ellen from the Department of Mechanical Engineering and Medical Engineering at MIT commented that the cardiopulmonary function assistive technology based on soft robots is promising to overcome the limitations of traditional ventilators.</STRONG>
   </div>
 <span style="font-size: 18px; color: #2980b9; font-weight: bold;">
-<strong>Development of respiratory exoskeleton prototypes</strong><br>
-To address the issue that clinical positive pressure ventilators do not fully align with physiological breathing mechanisms and are prone to causing lung injuries and alveolar collapse, we proposed a soft wearable robotic device that simulates human physiological breathing.</span>
+<strong>Development of respiratory exoskeleton prototypes</strong></span><br>
+<span style="font-size: 16px; color: #34495e; font-weight: bold;">To address the issue that clinical positive pressure ventilators do not fully align with physiological breathing mechanisms and are prone to causing lung injuries and alveolar collapse, we proposed a soft wearable robotic device that simulates human physiological breathing.</span>
+</div>
 
 </div>
 
@@ -259,8 +260,8 @@ To address the issue that clinical positive pressure ventilators do not fully al
   <div class='paper-box-text' markdown="1">
 We achieved a breakthrough in fiber-reinforced double-layer casting technology and developed a high-output-force, high-folding-ratio soft actuator based on the Yoshimura tubular origami structure of Broussonetia papyrifera for expiratory assistance. The designed personalized portable exoskeleton system can effectively provide respiratory assistance to wearers in daily life scenarios and support the exploration of exoskeleton-assisted strategies during routine movements.
   </div>
-<STRONG>Bionic muscle-driven variable-stiffness design</STRONG><BR>
-The research team conducted preliminary studies on key technologies of respiratory assist devices, designing a variable-stiffness negative-pressure shell based on the layer-blocking variable-stiffness actuation principle, which can switch between rigid and soft states. 
+<span style="font-size: 18px; color: #2980b9; font-weight: bold;"><STRONG>Bionic muscle-driven variable-stiffness design</STRONG></span><BR>
+<span style="font-size: 16px; color: #34495e; font-weight: bold;">The research team conducted preliminary studies on key technologies of respiratory assist devices, designing a variable-stiffness negative-pressure shell based on the layer-blocking variable-stiffness actuation principle, which can switch between rigid and soft states. </span>
 </div>
 
 <div class='paper-box'>
@@ -273,8 +274,8 @@ The research team conducted preliminary studies on key technologies of respirato
   <div class='paper-box-text' markdown="1">
  By integrating a dual-chamber respiratory mechanics model with backstepping control, a biphasic control strategy for respiratory assist devices was proposed, enabling precise regulation of lung volume. Through flexible force tactile sensors and human-device interactive force compliance control, patient-ventilator asynchrony was effectively reduced. The previously developed exoskeleton testing platform allows rapid configuration of assistive modes and has high-precision control performance, providing technical support for real-time performance optimization and assistive mode efficacy evaluation of closed-loop exoskeleton systems.
   </div>
-<strong>Research on human-in-the-loop control strategies</strong><br>
-A closed-loop control system for respiratory assist devices was established, and a model-based proportional controller was designed to achieve personalized parameter adjustment and closed-loop tracking of complex breathing signals.
+<span style="font-size: 18px; color: #2980b9; font-weight: bold;"><strong>Research on human-in-the-loop control strategies</strong></sapn><br>
+<span style="font-size: 16px; color: #34495e; font-weight: bold;">A closed-loop control system for respiratory assist devices was established, and a model-based proportional controller was designed to achieve personalized parameter adjustment and closed-loop tracking of complex breathing signals.</span>
 </div>
 
 <div class='paper-box'>
@@ -287,8 +288,8 @@ A closed-loop control system for respiratory assist devices was established, and
   <div class='paper-box-text' markdown="1">
 An IMU-based motion artifact removal method and a dynamic respiratory feature recognition algorithm were developed, achieving millisecond-level respiratory status monitoring and patient-ventilator synchrony triggering. Using diaphragm ultrasound for noninvasive monitoring of deep respiratory muscles, results showed that machine-assisted intervention significantly improved diaphragm mobility.These findings provide a solid foundation for personalized respiratory profiling, respiratory status assessment, and real-time clinical efficacy evaluation across diverse diseases and individuals.
   </div>
-<strong>Multimodal respiratory intention perception</strong><br>
-A multimodal intention decoding framework was proposed based on the respiratory nerve-muscle-skeleton-airflow conduction mechanism. 
+<span style="font-size: 18px; color: #2980b9; font-weight: bold;"><strong>Multimodal respiratory intention perception</strong></span><br>
+<span style="font-size: 16px; color: #34495e; font-weight: bold;">A multimodal intention decoding framework was proposed based on the respiratory nerve-muscle-skeleton-airflow conduction mechanism. </span>
 </div>
 
 ## Principal Investigator
