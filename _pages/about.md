@@ -291,7 +291,8 @@ By integrating a dual-chamber respiratory mechanics model with backstepping cont
 <br><br>
 An IMU-based motion artifact removal method and a dynamic respiratory feature recognition algorithm were developed, achieving millisecond-level respiratory status monitoring and patient-ventilator synchrony triggering. Using diaphragm ultrasound for noninvasive monitoring of deep respiratory muscles, results showed that machine-assisted intervention significantly improved diaphragm mobility.These findings provide a solid foundation for personalized respiratory profiling, respiratory status assessment, and real-time clinical efficacy evaluation across diverse diseases and individuals.
   </div>
-
+<span style="font-size: 18px; color: #2980b9; font-weight: bold;">Multimodal respiratory intention perception</span><br>
+<span style="font-size: 16px; color: #34495e; font-weight: bold;">A multimodal intention decoding framework was proposed based on the respiratory nerve-muscle-skeleton-airflow conduction mechanism.</span>
 </div>
 
 ## Principal Investigator
