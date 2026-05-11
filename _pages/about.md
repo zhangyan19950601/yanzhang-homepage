@@ -212,7 +212,7 @@ h2 {
 
 <div class="profile-intro">
 I am a "Distinguished Hundred Talents" postdoctoral fellow at Beihang University. My research focuses on key issues in respiratory exoskeleton robots, including bionic mechanisms, variable-stiffness and variable-configuration design, and human-in-the-loop control.
-I have published 4 SCI papers as the first author or corresponding author, including high-level papers in IEEE Transactions on Biomedical Engineering (IEEE TBME, a Q1 journal in the biomedical engineering field) and IEEE Transactions on Neural Systems and Rehabilitation Engineering (IEEE TNSRE, a Q1 journal in the rehabilitation field). My doctoral dissertation was awarded the 2025 Doctoral Dissertation Incentive Program by the Technical Committee on Intelligent Robots of the China Computer Federation. Relevant achievements were invited for a presentation at the Youth Forum of the 2025 China Haptic Technology and Application Conference(ranked <strong>3rd out of 80 participants</strong>).
+I have published 6 SCI papers as the first author or corresponding author, including high-level papers in IEEE Transactions on Biomedical Engineering (IEEE TBME, a Q1 journal in the biomedical engineering field) and IEEE Transactions on Neural Systems and Rehabilitation Engineering (2) (IEEE TNSRE, a Q1 journal in the rehabilitation field). My doctoral dissertation was awarded the 2025 Doctoral Dissertation Incentive Program by the Technical Committee on Intelligent Robots of the China Computer Federation. Relevant achievements were invited for a presentation at the Youth Forum of the 2025 China Haptic Technology and Application Conference(ranked <strong>3rd out of 80 participants</strong>).
 </div>
 
 ## Doctoral Supervisor: Dangxiao Wang
