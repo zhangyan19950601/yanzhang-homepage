@@ -417,6 +417,6 @@ Guotao Li, Institute of Automation, Chinese Academy of Sciences (CAS) — Exoske
   </div>
   <div class='paper-box-text' markdown="1">
 Our research group serves as the lead unit for the National Key R&D Program, and I participate as a core member of the project team.The research is supported by multiple high-level projects, including the General Program of the National Natural Science Foundation of China and collaborative projects with Huawei.
-Relevant achievements have been validated in over 200 practical applications and were officially included in the <strong>China Rehabilitation Medicine Report 2022</strong> compiled by Academician Wang Chen, as the only selected technology in the respiratory assistive robot category. </div>
+Relevant achievements have been validated in over 200 practical applications and were officially included in the <strong>China Rehabilitation Medicine Report 2022</strong> compiled by Academician Wang Chen, as the only selected technology in the respiratory assistive robot category.
 
 </div>
