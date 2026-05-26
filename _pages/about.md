@@ -414,25 +414,18 @@ Guotao Li, Institute of Automation, Chinese Academy of Sciences (CAS) — Exoske
 
 <strong>Second Prize in the Fengru Cup Competition of Beihang University</strong><br><br>
 
-We developed a wearable variable-stiffness textile with three-dimensional bistable structures based on bionic respiratory sensing. 
-By integrating respiratory-motion perception, bistable mechanical design, and adaptive stiffness modulation, this work explores a new form of intelligent wearable textile for respiratory-assistive applications.
-This achievement won the <strong>Second Prize in the Fengru Cup Competition of Beihang University</strong>.
+Our wearable variable-stiffness textile with three-dimensional bistable structures based on bionic respiratory sensing won the <strong>Second Prize in the Fengru Cup Competition of Beihang University</strong>.
 
   </div>
 </div>
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">中国康复医学报告2022</div>
-      <img src='images/pic-mdrpt.png' alt="中国康复医学报告2022相关图片">
-    </div>
-  </div>
   <div class='paper-box-text' markdown="1">
 <div class="news-date">2022</div>
 
-Our research group serves as the lead unit for the National Key R&D Program, and I participate as a core member of the project team. The research is supported by multiple high-level projects, including the General Program of the National Natural Science Foundation of China and collaborative projects with Huawei.
-Relevant achievements have been validated in over 200 practical applications and were officially included in the <strong>China Rehabilitation Medicine Report 2022</strong> compiled by Academician Wang Chen, as the only selected technology in the respiratory assistive robot category.
+<strong>Selected in China Rehabilitation Medicine Report 2022</strong><br><br>
+
+Our respiratory assistive robot technology was included in the <strong>China Rehabilitation Medicine Report 2022</strong> as the only selected technology in the respiratory assistive robot category.
 
   </div>
 </div>
