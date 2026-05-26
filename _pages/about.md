@@ -416,15 +416,17 @@ Guotao Li, Institute of Automation, Chinese Academy of Sciences (CAS) — Exoske
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-Our research group serves as the lead unit for the National Key R&D Program, and I participate as a core member of the project team.The research is supported by multiple high-level projects, including the General Program of the National Natural Science Foundation of China and collaborative projects with Huawei.
+Our research group serves as the lead unit for the National Key R&D Program, and I participate as a core member of the project team. The research is supported by multiple high-level projects, including the General Program of the National Natural Science Foundation of China and collaborative projects with Huawei.
 Relevant achievements have been validated in over 200 practical applications and were officially included in the <strong>China Rehabilitation Medicine Report 2022</strong> compiled by Academician Wang Chen, as the only selected technology in the respiratory assistive robot category.
 
+  </div>
 </div>
+
 <div class='paper-box'>
   <div class='paper-box-text' markdown="1">
 We developed a wearable variable-stiffness textile with three-dimensional bistable structures based on bionic respiratory sensing. 
 By integrating respiratory-motion perception, bistable mechanical design, and adaptive stiffness modulation, this work explores a new form of intelligent wearable textile for respiratory-assistive applications.
 This achievement won the <strong>Second Prize in the Fengru Cup Competition of Beihang University</strong>.
 
-</div>
+  </div>
 </div>
