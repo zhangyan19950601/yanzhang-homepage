@@ -405,7 +405,7 @@ Guotao Li, Institute of Automation, Chinese Academy of Sciences (CAS) — Exoske
 ## 2026-05-26
 
 <div class="profile-intro">
-Our wearable variable-stiffness textile with three-dimensional bistable structures based on bionic respiratory sensing won the <strong>Second Prize in the Fengru Cup Competition of Beihang University
+Our wearable variable-stiffness textile with three-dimensional bistable structures based on bionic respiratory sensing won the <strong>Second Prize in the Fengru Cup Competition of Beihang University.Congratulations to Zhao Yingheng and other students.
 </div>
 
 ## 2022
