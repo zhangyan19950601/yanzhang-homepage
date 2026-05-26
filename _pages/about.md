@@ -408,24 +408,24 @@ Guotao Li, Institute of Automation, Chinese Academy of Sciences (CAS) — Exoske
 
 ## News
 
-<div class='paper-box'>
-  <div class='paper-box-text' markdown="1">
-<div class="news-date">2026-05-26</div>
-
-<strong>Second Prize in the Fengru Cup Competition of Beihang University</strong><br><br>
-
-Our wearable variable-stiffness textile with three-dimensional bistable structures based on bionic respiratory sensing won the <strong>Second Prize in the Fengru Cup Competition of Beihang University</strong>.
-
+<div class="paper-box">
+  <div class="paper-box-text">
+    <div class="news-date">2026-05-26</div>
+    <div class="news-title">Second Prize in the Fengru Cup Competition of Beihang University</div>
+    <p>
+      Our wearable variable-stiffness textile with three-dimensional bistable structures based on bionic respiratory sensing won the 
+      <strong>Second Prize in the Fengru Cup Competition of Beihang University</strong>.
+    </p>
   </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-text' markdown="1">
-<div class="news-date">2022</div>
-
-<strong>Selected in China Rehabilitation Medicine Report 2022</strong><br><br>
-
-Our respiratory assistive robot technology was included in the <strong>China Rehabilitation Medicine Report 2022</strong> as the only selected technology in the respiratory assistive robot category.
-
+<div class="paper-box">
+  <div class="paper-box-text">
+    <div class="news-date">2022</div>
+    <div class="news-title">Selected in China Rehabilitation Medicine Report 2022</div>
+    <p>
+      Our respiratory assistive robot technology was included in the 
+      <strong>China Rehabilitation Medicine Report 2022</strong> as the only selected technology in the respiratory assistive robot category.
+    </p>
   </div>
 </div>
