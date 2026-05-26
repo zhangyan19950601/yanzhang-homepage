@@ -223,13 +223,6 @@ He has previously served as Chair of the IEEE Technical Committee on Haptics, Ch
 Professor Wang has published more than 50 papers in IEEE Transactions journals as the first or corresponding author, including 25 papers in IEEE Transactions on Haptics (a top journal in the haptics field) as the first/corresponding author (ranked <strong>5th globally</strong> in terms of author order in the Web of Science database).
 </div>
 
-## Co-Supervisor: Yubo Fan
-
-<div class="profile-intro">
-Professor Fan Yubo is a recipient of the National Distinguished Young Scientist Fund. He currently serves as Dean of the Interdisciplinary Innovation Institute of Medical and Engineering, Dean of the School of Medical Science and Engineering, and Dean of the School of Biological and Medical Engineering at Beihang University.
-He also holds the positions of Director of the National Medical Research and Development Industry-Education Integration Platform (Medical-Engineering Integration), Director of the Beijing Advanced Innovation Center for Biomedical Engineering, and Director of the Key Laboratory of Biomechanics and Mechanobiology of the Ministry of Education.
-Professor Fan is a Changjiang Scholar Distinguished Professor, leader of the Innovation Group of the National Natural Science Foundation of China, and leader of the Innovation Team in Key Fields of the Ministry of Science and Technology. He is a recipient of the Special Government Allowance of the State Council. Additionally, he is a Fellow of the American Institute for Medical and Biological Engineering (AIMBE), International Academy for Medical and Biological Engineering (IAMBE), International Union for Physical and Engineering Sciences in Medicine (IUPESM), and Federation of the International Societies for Biomaterials Science and Engineering (FBSE).
-</div>
 
 ## Achievements
 
@@ -406,14 +399,16 @@ Guotao Li, Institute of Automation, Chinese Academy of Sciences (CAS) — Exoske
 <li>Xiaoxuan Liu, Peking University Third Hospital — ALS</li>
 </div>
 
+
 ## News
 
-<div class="profile-intro">
-<strong>2026-05-26</strong><br>
-Our wearable variable-stiffness textile with three-dimensional bistable structures based on bionic respiratory sensing won the <strong>Second Prize in the Fengru Cup Competition of Beihang University</strong>.
-</div>
+## 2026-05-26
 
 <div class="profile-intro">
-<strong>2022</strong><br>
+Our wearable variable-stiffness textile with three-dimensional bistable structures based on bionic respiratory sensing won the <strong>Second Prize in the Fengru Cup Competition of Beihang University
+</div>
+
+## 2022
+<div class="profile-intro">
 Our respiratory assistive robot technology was included in the <strong>China Rehabilitation Medicine Report 2022</strong> as the only selected technology in the respiratory assistive robot category.
 </div>
